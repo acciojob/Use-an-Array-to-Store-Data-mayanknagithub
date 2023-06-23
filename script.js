@@ -1,1 +1,2 @@
-let yourArray = ['mayank', 24, true, 'anshul', 25];
+var yourArray = ["Hello", 42, true, "World", false];
+
